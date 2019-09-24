@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /test4/
 
 # Website info
-title: East Coweta STEM
-description: Promoting STEM at East Coweta High School
+title: STEM Academy
+description: ECHS STEM Academy
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
